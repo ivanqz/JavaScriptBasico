@@ -1,2 +1,2 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# JAVASCRIPT BASICO
+Este es el primer ejercicio de javascript donde debemos poner un ejemplo de todo lo explicado en la clase de hoy
