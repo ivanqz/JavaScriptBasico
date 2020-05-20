@@ -21,8 +21,8 @@ function Sumar(num1,num2) {
 Sumar (80+25);
 
 //Funcion Restar
-function Resta(a,b) {
-    console.log (`El resultado de la resta es: ${a -b}` );
+function Resta(num1, num2) {
+    console.log (`El resultado de la resta es: ${num1 - num2}` );
 }
 
 /*
